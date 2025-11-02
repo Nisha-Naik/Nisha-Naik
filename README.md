@@ -18,9 +18,6 @@
 <a href="https://www.linkedin.com/in/nisha-naik" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
 </a>
-<a href="https://x.com/nisha_naik" target="blank">
-<img src="https://skillicons.dev/icons?i=twitter" height="40" alt="Twitter"/>
-</a>
 <a href="mailto:nishanaik471@gmail.com" target="blank">
 <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
 </a>
