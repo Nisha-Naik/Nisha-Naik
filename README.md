@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nisha Naik  
 ### 🏆 Top 6 Finalist – EKAIVA 2025 Hackathon
-### 🏆 Top 5 Finalist – IGNITRON 2025 Hackathon
+### 🏆 Finalist – IGNITRON 2025 Hackathon
 ### 💻 Full-Stack Developer | 🌐 Cybersecurity Enthusiast | 🎓 CSE Student @ AIET, Mangalore
 
 ---
