@@ -8,7 +8,7 @@
 ### 🚀 About Me
 - 🌱 Currently learning **MERN Stack & Cybersecurity Fundamentals**
 - 💡 Interested in **Web Development, Ethical Hacking, and Problem Solving**
-- 🧩 Completed projects: **To-Do List, Expense Tracker, Personal Calendar**
+- 🧩 Completed projects: **Smart Crop Disease Detector, Crypto Wallet for Newbies, TravelEase – Travel Management System, Agriculture Market Management System**
 - 🎯 Exploring **DSA** and **Network Security** concepts
 - 📚 Currently pursuing **B.E. in Computer Science** from **Alva’s Institute of Engineering and Technology (VTU)**
 - 📫 Reach me at: **nishanaik471@gmail.com**
