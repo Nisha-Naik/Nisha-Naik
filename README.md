@@ -43,7 +43,7 @@
 ---
 
 ### 🌟 Fun Fact
-> “Every line of code is a step toward innovation — and I’m walking that path with passion!”
+> **“Every line of code is a step toward innovation — and I’m walking that path with passion!”**
 
 ---
 
