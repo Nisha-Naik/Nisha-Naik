@@ -1,48 +1,98 @@
-# Hi 👋, I'm Nisha Naik  
-### 🏆 Top 6 Finalist – EKAIVA 2025 Hackathon
-### 🏆 Finalist – IGNITRON 2025 Hackathon
-### 💻 Full-Stack Developer | 🌐 Cybersecurity Enthusiast | 🎓 CSE Student @ AIET, Mangalore
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Nisha Naik</h1>
+
+<h3 align="center">
+🚀 Full-Stack Developer | 🔐 Cybersecurity Enthusiast | 🎓 CSE @ AIET, Mangalore
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Impactful+Projects;Exploring+Cybersecurity;MERN+Stack+Developer;Always+Learning+New+Things+🚀" />
+</p>
 
 ---
 
-### 🚀 About Me
-- 🌱 Currently learning **MERN Stack & Cybersecurity Fundamentals**
-- 💡 Interested in **Web Development, Ethical Hacking, and Problem Solving**
-- 🧩 Completed projects: **Smart Crop Disease Detector, Crypto Wallet for Newbies, TravelEase – Travel Management System, Agriculture Market Management System**
-- 🎯 Exploring **DSA** and **Network Security** concepts
-- 📚 Currently pursuing **B.E. in Computer Science** from **Alva’s Institute of Engineering and Technology (VTU)**
-- 📫 Reach me at: **nishanaik471@gmail.com**
+## 🏆 Achievements
+
+🏅 **Top 6 Finalist – EKAIVA 2025 Hackathon**  
+🏅 **Finalist – IGNITRON 2025 Hackathon**
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-<a href="https://www.linkedin.com/in/nisha-naik" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn"/>
+## 🚀 About Me
+
+✨ Passionate developer who loves building real-world solutions  
+🌱 Currently learning **MERN Stack & Cybersecurity**  
+💡 Interested in **Web Dev, Ethical Hacking & Problem Solving**  
+🎯 Exploring **DSA & Network Security**  
+📚 Pursuing **B.E. in Computer Science (VTU)**  
+
+---
+
+## 💼 Featured Projects
+
+🚜 **Smart Crop Disease Detector**  
+💰 **Crypto Wallet for Beginners**  
+🌍 **TravelEase – Travel Management System**  
+📊 **Agriculture Market Management System**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nisha-naik">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
-<a href="mailto:nishanaik471@gmail.com" target="blank">
-<img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail"/>
+<a href="mailto:nishanaik471@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left">
+## 🛠️ Tech Stack
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,c,cpp,git,github,vscode,linux,bootstrap,tailwind" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nishanaik&show_icons=true&theme=tokyonight" alt="nishanaik" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanaik&layout=compact&theme=tokyonight" alt="top-langs" />
+<img src="https://github-readme-stats.vercel.app/api?username=nishanaik&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanaik&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
 
-### 🌟 Fun Fact
-> **“Every line of code is a step toward innovation — and I’m walking that path with passion!”**
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=nishanaik&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
+
+## 🎥 Dev Vibe
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</p>
+
+---
+
+## 🌟 Quote I Believe In
+
+<p align="center">
+<b>"Code. Break. Learn. Repeat. — That’s how innovation is built."</b>
+</p>
+
+---
+
+## 🚀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nishanaik&label=Profile+Views&color=blue&style=flat" />
+</p>
