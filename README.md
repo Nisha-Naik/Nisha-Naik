@@ -1,121 +1,122 @@
-<!-- PROFILE HEADER -->
-<h1 align="center">Hi 👋, I'm Nisha Naik</h1>
+<div align="center">
 
-<h3 align="center">
-🚀 Full-Stack Developer | 🔐 Cybersecurity Enthusiast | 🎓 CSE @ AIET, Mangalore
-</h3>
+```
+███╗   ██╗██╗███████╗██╗  ██╗ █████╗     ███╗   ██╗ █████╗ ██╗██╗  ██╗
+████╗  ██║██║██╔════╝██║  ██║██╔══██╗    ████╗  ██║██╔══██╗██║██║ ██╔╝
+██╔██╗ ██║██║███████╗███████║███████║    ██╔██╗ ██║███████║██║█████╔╝ 
+██║╚██╗██║██║╚════██║██╔══██║██╔══██║    ██║╚██╗██║██╔══██║██║██╔═██╗ 
+██║ ╚████║██║███████║██║  ██║██║  ██║    ██║ ╚████║██║  ██║██║██║  ██╗
+╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+```
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Impactful+Projects;Exploring+Cybersecurity;MERN+Stack+Developer;Always+Learning+New+Things+🚀" />
-</p>
-
----
-
-## 🏆 Achievements
-
-🏅 **Top 6 Finalist – EKAIVA 2025 Hackathon**  
-🏅 **Finalist – IGNITRON 2025 Hackathon**
+</div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-✨ Passionate developer who loves building real-world solutions  
-🌱 Currently learning **MERN Stack & Cybersecurity**  
-💡 Interested in **Web Dev, Ethical Hacking & Problem Solving**  
-🎯 Exploring **DSA & Network Security**  
-📚 Pursuing **B.E. in Computer Science (VTU)**  
+### `Full-Stack Developer` · `Cybersecurity Enthusiast` · `CSE @ AIET, Mangalore`
 
----
+![EKAIVA 2025 — Top 6 Finalist](https://img.shields.io/badge/🏆_EKAIVA_2025-Top_6_Finalist-FFD700?style=flat-square&labelColor=1a1a2e)
+![IGNITRON 2025 — Finalist](https://img.shields.io/badge/🏆_IGNITRON_2025-Finalist-FFD700?style=flat-square&labelColor=1a1a2e)
+![Open to Opportunities](https://img.shields.io/badge/status-Open_to_Opportunities-00d4ff?style=flat-square&labelColor=001f2a)
 
-## 💼 Featured Projects
-
-🚜 **Smart Crop Disease Detector**  
-💰 **Crypto Wallet for Beginners**  
-🌍 **TravelEase – Travel Management System**  
-📊 **Agriculture Market Management System**
+</div>
 
 ---
 
-## 🌐 Connect with Me
+## `$ whoami`
 
-<p align="center">
-<a href="https://www.linkedin.com/in/nisha-naik">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-<a href="mailto:nishanaik471@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
-</p>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,c,cpp,git,github,vscode,linux,bootstrap,tailwind" />
-</p>
+```yaml
+name:       Nisha Naik
+degree:     B.E. Computer Science — Alva's Institute of Engineering & Technology (VTU)
+location:   Mangalore, Karnataka, India
+learning:   MERN Stack · Cybersecurity Fundamentals
+exploring:  Data Structures & Algorithms · Network Security · Ethical Hacking
+interests:  Web Development · Cybersecurity · Problem Solving
+contact:    nishanaik471@gmail.com
+```
 
 ---
 
-## ⚡ GitHub Analytics & Performance
+## `$ ls ~/projects`
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishanaik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=⚡+Nisha's+GitHub+Insights" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nishanaik&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanaik&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" height="150"/>
-</p>
+| Project | Description | Stack |
+|---|---|---|
+| 🌿 **Smart Crop Disease Detector** | AI-powered plant disease identification from leaf images | Python · ML · Image Processing |
+| 🔐 **Crypto Wallet for Newbies** | Beginner-friendly crypto wallet with clean UX | Web3 · React · JavaScript |
+| ✈️ **TravelEase** | Full-stack travel management system | MERN Stack |
+| 🌾 **Agriculture Market Management System** | Digital platform for agri market operations | Full-Stack · MongoDB |
 
 ---
 
-## 🧠 Contribution Graph
+## `$ cat tech-stack.txt`
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanaik&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
+**Frontend**
 
----
+![HTML5](https://skillicons.dev/icons?i=html)
+![CSS3](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
-## 🏅 Developer Metrics
+**Backend & Database**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishanaik&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+![Node.js](https://skillicons.dev/icons?i=nodejs)
+![Express](https://skillicons.dev/icons?i=express)
+![MongoDB](https://skillicons.dev/icons?i=mongodb)
 
----
+**Languages**
 
-## 🔥 GitHub Streak
+![Python](https://skillicons.dev/icons?i=python)
+![Java](https://skillicons.dev/icons?i=java)
+![C](https://skillicons.dev/icons?i=c)
+![C++](https://skillicons.dev/icons?i=cpp)
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=nishanaik&theme=tokyonight&hide_border=true"/>
-</p>
+**Tools & Environment**
 
----
-
-## 🎥 Dev Vibe
-
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
-</p>
-
----
-
-## 🌟 Quote I Believe In
-
-<p align="center">
-<b>"Code. Break. Learn. Repeat. — That’s how innovation is built."</b>
-</p>
+![Git](https://skillicons.dev/icons?i=git)
+![GitHub](https://skillicons.dev/icons?i=github)
+![VS Code](https://skillicons.dev/icons?i=vscode)
+![Linux](https://skillicons.dev/icons?i=linux)
 
 ---
 
-## 🚀 Profile Views
+## `$ git log --stats`
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=nishanaik&label=Profile+Views&color=blue&style=flat" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=nishanaik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&icon_color=00d4ff&text_color=c9d1d9" height="160" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanaik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=c9d1d9" height="160" />
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nishanaik&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=00d4ff)
+
+</div>
+
+---
+
+## `$ open --connect`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nisha_Naik-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nisha-naik)
+[![Gmail](https://img.shields.io/badge/Email-nishanaik471@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nishanaik471@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+"Every line of code is a step toward innovation — and I'm walking that path with passion."
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=nishanaik&color=e94560&style=flat-square&label=profile+views)
+
+</div>
