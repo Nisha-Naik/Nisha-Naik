@@ -56,6 +56,10 @@
 </table>
 
 ---
+## 🏆 Achievements
+
+🏅 Top 6 Finalist – EKAIVA 2025 Hackathon  
+🏅 Finalist – IGNITRON 2025 Hackathon
 
 ## Featured Projects
 
