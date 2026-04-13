@@ -1,35 +1,133 @@
----
-
-## 🔥 Dev Vibe
-
 <div align="center">
-
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="420"/>
-
+ 
+```
+███╗   ██╗██╗███████╗██╗  ██╗ █████╗     ███╗   ██╗ █████╗ ██╗██╗  ██╗
+████╗  ██║██║██╔════╝██║  ██║██╔══██╗    ████╗  ██║██╔══██╗██║██║ ██╔╝
+██╔██╗ ██║██║███████╗███████║███████║    ██╔██╗ ██║███████║██║█████╔╝ 
+██║╚██╗██║██║╚════██║██╔══██║██╔══██║    ██║╚██╗██║██╔══██║██║██╔═██╗ 
+██║ ╚████║██║███████║██║  ██║██║  ██║    ██║ ╚████║██║  ██║██║██║  ██╗
+╚═╝  ╚═══╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝    ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+```
+ 
 </div>
+ 
+--- 
+<h3 align="center">
+🚀 Full-Stack Developer | 🔐 Cybersecurity Enthusiast | 🎓 CSE @ AIET, Mangalore
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=500&lines=Building+Impactful+Projects;Exploring+Cybersecurity;MERN+Stack+Developer;Always+Learning+New+Things+🚀" />
+</p>
 
 ---
 
-## ⚡ Live Contribution Graph
+## 🏆 Achievements
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanaik&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
-</div>
+🏅 **Top 6 Finalist – EKAIVA 2025 Hackathon**  
+🏅 **Finalist – IGNITRON 2025 Hackathon**
 
 ---
 
-## 🏅 Developer Achievements
+## 🚀 About Me
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nishanaik&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
+✨ Passionate developer who loves building real-world solutions  
+🌱 Currently learning **MERN Stack & Cybersecurity**  
+💡 Interested in **Web Dev, Ethical Hacking & Problem Solving**  
+🎯 Exploring **DSA & Network Security**  
+📚 Pursuing **B.E. in Computer Science (VTU)**  
 
 ---
 
-## 🧠 Coding Philosophy
+## 💼 Featured Projects
 
-<div align="center">
+🚜 **Smart Crop Disease Detector**  
+💰 **Crypto Wallet for Beginners**  
+🌍 **TravelEase – Travel Management System**  
+📊 **Agriculture Market Management System**
+
+---
+
+## 🌐 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/nisha-naik">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+</a>
+<a href="mailto:nishanaik471@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+</a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,python,java,c,cpp,git,github,vscode,linux,bootstrap,tailwind" />
+</p>
+
+---
+
+## ⚡ GitHub Analytics & Performance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishanaik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=⚡+Nisha's+GitHub+Insights" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nishanaik&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanaik&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" height="150"/>
+</p>
+
+---
+
+## 🧠 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanaik&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+## 🏅 Developer Metrics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nishanaik&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=nishanaik&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎥 Dev Vibe
+
+<p align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
+</p>
+
+---
+
+## 🌟 Quote I Believe In
+
+<p align="center">
+<b>"Code. Break. Learn. Repeat. — That’s how innovation is built."</b>
+</p>
+
+---
+
+## 🚀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=nishanaik&label=Profile+Views&color=blue&style=flat" />
+</p>
+🔥 FINAL RESUL
