@@ -58,11 +58,34 @@
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ GitHub Analytics & Performance
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nishanaik&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanaik&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nishanaik&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&custom_title=⚡+Nisha's+GitHub+Insights" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nishanaik&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishanaik&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF" height="150"/>
+</p>
+
+---
+
+## 🧠 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishanaik&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+## 🏅 Developer Metrics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nishanaik&theme=tokyonight&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
