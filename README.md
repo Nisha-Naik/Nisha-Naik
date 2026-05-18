@@ -19,7 +19,7 @@
 ---
 
 <h3 align="center">
- Full-Stack Developer |  Cybersecurity Enthusiast |  CSE @ AIET
+ Full-Stack Developer | Cybersecurity Enthusiast | CSE @ AIET
 </h3>
 
 <p align="center">
@@ -28,28 +28,28 @@
 
 ---
 
-##  Overview
+## 🚀 Overview
 
 <table align="center">
 <tr>
 <td width="50%">
 
-###  About Me
+### 👨‍💻 About Me
 
-- B.E. CSE @ AIET (CGPA: 8.9)  
-- Full-Stack Developer Intern @ MicroDegree  
-- Focused on **MERN, LLM & Web3**  
-- Built scalable APIs & deployed apps on AWS  
+- B.E. CSE @ AIET (CGPA: 8.9)
+- Full-Stack Developer Intern @ MicroDegree
+- Focused on MERN, LLM & Web3
+- Built scalable APIs & deployed apps on AWS
 
 </td>
 <td width="50%">
 
-### Currently
+### 📌 Currently
 
-- Building AI-powered full-stack apps  
-- Learning **System Design & DSA**  
-- Exploring **Cybersecurity & OWASP**  
-- Targeting top SDE internships  
+- Building AI-powered full-stack apps
+- Learning System Design & DSA
+- Exploring Cybersecurity & OWASP
+- Targeting top SDE internships
 
 </td>
 </tr>
@@ -60,26 +60,27 @@
 ## 🏆 Achievements
 
 🏅 Top 6 Finalist – EKAIVA 2025 Hackathon  
-🏅 Finalist – IGNITRON 2025 Hackathon
+🏅 Finalist – IGNITRON 2025 Hackathon  
+🏅 Organized National Level Hackathon – XYPHERIA 2026
 
 ---
 
-## Featured Projects
+## 🌟 Featured Projects
 
 <div align="center">
 
 | Project | Description | Tech |
 |--------|------------|------|
-| 🤖 TrustLens AI | AI bias detection platform (8+ metrics) | React, Node, LLM |
-| 🌿 Smart Crop Detector | CNN model (92% accuracy) | Python, OpenCV |
+| 🤖 TrustLens AI | AI bias detection platform | React, Node, LLM |
+| 🌿 Smart Crop Detector | CNN model for disease detection | Python, OpenCV |
+| 🍔 FoodieRush | Modern food delivery app | React, Vite |
 | 🔐 Crypto Wallet | Secure Web3 wallet | React, MongoDB |
-| 🌍 TravelEase | Real-time travel app | Next.js, Firebase |
 
 </div>
 
 ---
 
-##  Connect With Me
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -91,44 +92,45 @@
 <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<a href="https://github.com/Nisha-Naik">
+<img src="https://img.shields.io/badge/GitHub-Nisha--Naik-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-##  Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-###  Languages
+### 💻 Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-###  Frontend
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-###  Backend & Database
+### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-###  Cloud & Tools
+### ☁️ Cloud & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-###  Specializations
+### 🚀 Specializations
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-1DB954?style=for-the-badge&logo=protonvpn&logoColor=white)
 ![LLM](https://img.shields.io/badge/LLM-412991?style=for-the-badge&logo=openai&logoColor=white)
 
@@ -136,35 +138,66 @@
 
 ---
 
-##  GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=nishanaik&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-<img src="https://streak-stats.demolab.com?user=nishanaik&theme=tokyonight&hide_border=true" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nisha-Naik&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nisha-Naik&theme=tokyonight&hide_border=true" height="170"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nisha-Naik&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-##  Dev Vibe
-<p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400"/>
-</p>
+## 🏆 GitHub Trophies
 
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Nisha-Naik&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
-##  Philosophy
+## 🌟 Support My Work
+
+<p align="center">
+If you like my projects, consider giving them a ⭐ on GitHub!
+</p>
+
+<p align="center">
+<a href="https://github.com/Nisha-Naik?tab=repositories">
+<img src="https://img.shields.io/badge/⭐_Star_My_Repositories-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Nisha-Naik/Nisha-Naik/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Nisha-Naik&color=3A7BD5"/>
+</p>
+
+---
+
+## 💭 Philosophy
 
 <p align="center">
 <b>"Code. Break. Learn. Repeat."</b>
-</p>
-
----
-
-##  Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=nishanaik&color=3A7BD5"/>
 </p>
 
 ---
