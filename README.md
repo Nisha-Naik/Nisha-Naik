@@ -46,6 +46,11 @@
 
 ### 📌 Currently
 
+- Building AI-powered full-stack apps
+- Learning System Design & DSA
+- Exploring Cybersecurity & OWASP
+- Targeting top SDE internships
+
 
 
 
